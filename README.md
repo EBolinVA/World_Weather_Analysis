@@ -26,6 +26,12 @@ We created a Pandas DataFrame with >500 unique cities around the world and their
 
 ![Image of map with cities plotted](https://github.com/EBolinVA/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
+Four cities in Mexico were chosen for the final output, a travel itinerary map showing the route beginning at a starting point, stopping at three other cities, and then returning to the original city. 
 
+![Image of Itinerary map with 4 Mexican cities](https://github.com/EBolinVA/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+## Recommendations
+
+This project has the potential for a variety of applications for the travel customers of PlanMyTrip. The GeoApify location platform has multiple APIs which return a plethora of information. The Routing API used in this code to find a driving route between cities, can also be optimized to search heavy truck routes (deliveries), public transportation routes, mountain bike routes, and even hikes. One can also specify avoiding toll roads and highways. 
 
 
